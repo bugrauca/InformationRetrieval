@@ -9,8 +9,6 @@ This project is an Information Retrieval (IR) System implemented in Python. It i
 - [Usage](#usage)
 - [Modules](#modules)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This IR system supports document preparation, search, and evaluation, implementing both Boolean retrieval and a Vector Space Model. Key components include stop word removal, stemming using the Porter algorithm, and the construction of an inverted list. Additionally, precision and recall are evaluated for the retrieval models.
