@@ -1,0 +1,11 @@
+fox - 3, 7, 18, 19, 30
+beast - 4, 10, 11, 12, 15, 18, 24, 34, 43, 52, 59, 73
+grapes - 30, 55, 60, 63, 75
+lion - 3, 5, 8, 13, 21, 27, 36, 45, 50, 58
+hare - 6, 17, 29, 33, 42, 53, 65, 71
+
+
+# Format:
+#   search term - IDs of relevant documents, divided by comma
+#   (IDs correspond to order of documents in aesopa10.txt, starting with 1)
+
